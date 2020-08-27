@@ -5,4 +5,4 @@
     1 - Separar e juntar PDFs
     2 - Transformar pdf em docx - docx em pdf
     3 - Calendario exclusivo do aluno
-    4 - ...
+    4 - Utilizar Watson para achar palavras chaves
