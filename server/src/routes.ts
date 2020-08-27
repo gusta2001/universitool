@@ -6,4 +6,8 @@ routes.get('/', (request, response)=> {
     return response.send("Universitool");
 });
 
+routes.get('/pdf', (request, response)=> {
+    return response.send("Cortar PDF - Juntar pdf");
+});
+
 export default routes;
